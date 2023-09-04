@@ -41,3 +41,12 @@ Enredo: Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, rea
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dr. Shaun Murphy se prepara para o seu quinto e último ano como residente no San Jose St. Bonaventure Hospital e, ao mesmo tempo, para o seu casamento com a sua namorada Lea.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B]  THE GOOD DOCTOR  6°  TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6df1f06ab6930308fd1e1575814dc10036e4c24e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jtLB7xJKcbekmOYkb5NZditBsgk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Série, Em The Good Doctor, um jovem cirurgião diagnosticado com savantismo, um distúrbio psíquico raro, é recrutado para trabalhar na ala pedriátrica de um hospital de prestígio. Apesar do seu incrível conhecimento na área da medicina, esse médico não consegue se relacionar com o mundo à sua volta. Resta saber se esta dificuldade será um problema na hora de salvar vidas.</info>
+</item>
+
